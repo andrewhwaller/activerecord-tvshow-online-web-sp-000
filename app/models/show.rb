@@ -17,6 +17,6 @@ class Show < ActiveRecord::Base
   end
 
   def selratings_sum
-    
+
   end
 end
